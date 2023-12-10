@@ -1,0 +1,23 @@
+Ideas for project
+* Need to produce three different types of messages for each type of event
+    1. Standard details
+    2. Full details
+    3. Short description
+
+* Lecture event
+    - will the user be prompted all of the details of the event? No, it's gonna be hard-coded
+
+UI
+Menu 
+a. Create event title
+    * Which type of event?
+    * Create a new event
+b. Display Outdoor event
+    * Display the outdoor event
+    * Displays the event which has ALREADY been created
+c. Display Lecture event
+    * Display lecture event
+d. Display Reception event
+    * Display reception event
+e. Quit
+    * Quits
